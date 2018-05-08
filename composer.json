@@ -1,0 +1,35 @@
+{  
+      "name": "pubserv/flexcrm",  
+      "description": "Yii2 flexcrm",  
+      "keywords": [  
+        "yii2",  
+        "flexcrm",
+        "crm"
+      ],  
+      "homepage": "https://github.com/pubserv/flexcrm",  
+      "type": "yii2-extension",  
+      "license": "MIT",  
+      "support": {  
+        "source": "https://github.com/pubserv/flexcrm"  
+      },  
+      "authors": [  
+        {  
+          "name": "pubserv",  
+          "email": "info@flexcrm.cn"  
+        }  
+      ],  
+      "minimum-stability": "stable",  
+      "require": {  
+        "php": ">=5.4.0",  
+        "yiisoft/yii2": ">=2.0.6"  
+         
+      },  
+      "autoload": {  
+        "psr-4": {  
+          "pubserv\\": ""  
+        }  
+      },  
+      "config": {  
+        "process-timeout": 1800  
+      }  
+    }
