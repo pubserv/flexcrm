@@ -8,7 +8,7 @@
       ],  
       "homepage": "https://github.com/pubserv/flexcrm",  
       "type": "yii2-extension",  
-      "license": "MIT",  
+      "license": "BSD-3-Clause",  
       "support": {  
         "source": "https://github.com/pubserv/flexcrm"  
       },  
